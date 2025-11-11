@@ -1,0 +1,22 @@
+
+conda create -n OpenWebUI python=3.12 -c https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+
+conda env list
+
+这个地方直接激活环境会报错，需要先执行下面的命令进行初始化
+conda init bash
+source ~/.bashrc
+
+conda activate OpenWebUI
+
+
+
+
+
+
+
+
+
+
+
+

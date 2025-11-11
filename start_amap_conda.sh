@@ -2,7 +2,7 @@
 # 使用 conda 环境中修改后的 amap-mcp-server
 
 # 设置 API Key
-export AMAP_MAPS_API_KEY="db2bb74f229bb19058b4ab85350a2c85"
+export AMAP_MAPS_API_KEY="your_api_key"
 
 # 停止旧服务
 pkill -f "amap-mcp-server" 2>/dev/null
